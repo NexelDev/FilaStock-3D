@@ -3,6 +3,7 @@
     --text-color: #2c3e50;
     --primary: #3498db;
     --drawer-bg: #e0e4e8;
+    color-scheme: only light;
 }
 
 * { box-sizing: border-box; font-family: 'Segoe UI', system-ui, sans-serif; }
