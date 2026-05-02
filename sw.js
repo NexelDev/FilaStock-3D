@@ -1,5 +1,5 @@
 const CACHE_NAME = 'filastock-v3';
-const ASSETS = ['./', './index.html', './style.css', './app.js', './manifest.json'];
+const ASSETS = ['./', './index.html', './style.css', './app.js', './manifest.json', './logo.png'];
 
 // Installation : force le Service Worker à s'activer tout de suite
 self.addEventListener('install', e => {

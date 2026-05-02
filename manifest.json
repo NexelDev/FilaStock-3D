@@ -1,5 +1,5 @@
 {
-  "name": "FilaStock 3D Management",
+  "name": "FilaStock 3D",
   "short_name": "FilaStock",
   "start_url": "index.html",
   "display": "standalone",
@@ -7,9 +7,10 @@
   "theme_color": "#2c3e50",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%232c3e50%22/><circle cx=%2250%22 cy=%2250%22 r=%2235%22 fill=%22none%22 stroke=%22%233498db%22 stroke-width=%228%22/><circle cx=%2250%22 cy=%2250%22 r=%2210%22 fill=%22%233498db%22/></svg>",
-      "sizes": "192x192",
-      "type": "image/svg+xml"
+      "src": "./logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
